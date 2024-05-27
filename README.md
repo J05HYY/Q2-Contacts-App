@@ -13,9 +13,11 @@ This is a responsive contacts application built with React.
    cd contacts-app
 
 2. Install the dependencies
+    ```bash
     npm install 
 
 ## Usage
 1. Start App
+    ```bash
     npm start 
 2. Open Browser 'http://localhost:3000'
