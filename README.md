@@ -9,7 +9,7 @@ This is a responsive contacts application built with React.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/contacts-app.git
+   git clone https://github.com/J05HYY/Q2-Contacts-App.git
    cd contacts-app
 
 2. Install the dependencies
